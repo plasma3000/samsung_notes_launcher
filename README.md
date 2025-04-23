@@ -15,7 +15,7 @@ Source code: https://github.com/kellwinr/galaxybook_mask/blob/main/samsungnotes-
 
 삼성 노트가 먼저 설치되어 있어야 합니다. 마이크로소프트 스토어에서 설치할 수 있습니다.
 
-보안 프로그램에서 이 파일을 바이러스로 감지할 수 있습니다. 이는 모든 배치 파잏에서 일어날 수 있습니다.
+보안 프로그램에서 이 파일을 바이러스로 감지할 수 있습니다. 이는 모든 배치 파일에서 일어날 수 있습니다.
 
 소스 코드: https://github.com/kellwinr/galaxybook_mask/blob/main/samsungnotes-directlaunch.bat
 
