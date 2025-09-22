@@ -1,7 +1,7 @@
 # samsung notes launcher
 Eng
 
-This exe launches samsung notes on windows even not on galaxy devices. 
+This exe launches samsung notes on any windows.
 Samsung notes must be installed first. You can install it at Microsoft Store.
 Windows defender might detected this file as a virus. This can happen to any batch file.
 
