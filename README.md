@@ -1,4 +1,4 @@
-# samsung_notes_launcher
+# samsung notes launcher
 Eng
 
 This exe launches samsung notes on windows even not on galaxy devices. 
